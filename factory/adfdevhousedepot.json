@@ -1,0 +1,9 @@
+{
+	"name": "adfdevhousedepot",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "4b0e184f-02f2-491f-9285-8cb926b82eb2",
+		"tenantId": "88a2576d-f4bb-40e6-a819-359707d89d50"
+	}
+}
