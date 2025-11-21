@@ -1,0 +1,6 @@
+{
+	"name": "IRHostingerHouseDepotDB",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
